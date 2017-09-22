@@ -11,6 +11,7 @@ namespace HelloWorld
             Console.WriteLine("Press key to exit.");
             Console.WriteLine("git fetch")
             Console.WriteLine(" feature Branch1")
+            Console.WriteLine(" feature Branch2")
             Console.ReadKey();
         }
     }
