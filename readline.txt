@@ -1,4 +1,2 @@
 we have beautiful day ahead
-.
-
-This is new file has been added
+This is new file has been added to git
