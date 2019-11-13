@@ -6,7 +6,8 @@ New Changes
 
 
 
-
+Tesco
+===========
 - Developped Terra-form script for AWS Infrastructure Customer Infra product.
 - Written AWS lambda functions using python script for AWS compliance.
 - Chef Cookbooks for Provisioning Jenkins server.
@@ -33,3 +34,11 @@ Technologies : Jenkins, Power shell Scripts, TFS 2013, Azure
 CI/CD setup for Transport services for Java projects 
 Build & Deployment using Hudson(jenkin)
 Automation for Commercial Streame Releases,SRD,IL using clearcase, git, Jenkins  and  perl
+
+Optum Bangalore
+
+●	Added DynaTrace Synthethic monitoring for early alerts on system performance.
+●	Log monitoring support for both prod and non-prod RWE environments.
+●	Automated OSE (Open shift environment) Migration task for OSE 3.2 to 3.9 Environment, monitoring Usage reports, Password change for Performance accounts, Pulling log aggregation size report.
+●	Build and deployment Support for RWE applications
+
