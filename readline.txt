@@ -3,3 +3,33 @@ This is new file has been added to git
 Checking newly Created Jenkins Job1
 sffff
 New Changes
+
+
+
+
+- Developped Terra-form script for AWS Infrastructure Customer Infra product.
+- Written AWS lambda functions using python script for AWS compliance.
+- Chef Cookbooks for Provisioning Jenkins server.
+
+Capability to create Dynamic CI/CD Jenkins pipeline for Product Location service in Azure or any Environment.
+In order to accelerate the development and increase quality of the solution, Automate end to end solution for product Location Service.
+As the service owner,they are able to deploy the service automatically to any environment whether It is cloud or any Environment.
+
+Fully automated CD pipeline for Product Location service by using Power shell Scripting . This takes the automation to the next level, where the CD pipeline itself is created with one click.
+This will help the Product Location and Range service teams in creating the pipeline for multiple versions in various environments, and in UK and other regions as SRD moves to a service oriented world.
+
+-Provisioning the Jenkins Environment( Using Powershell Script)
+-Website Deployment
+-DB continuous deployment by DACPAC concepts
+-Execution of integration tests .
+-Dynamically Created the Jenkins CD pipeline; so everything is on fly.
+
+This solution is used across all the projects in a property cell.
+
+Technologies : Jenkins, Power shell Scripts, TFS 2013, Azure
+
+
+
+CI/CD setup for Transport services for Java projects 
+Build & Deployment using Hudson(jenkin)
+Automation for Commercial Streame Releases,SRD,IL using clearcase, git, Jenkins  and  perl
